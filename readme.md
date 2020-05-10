@@ -14,9 +14,9 @@ Find songs, artists and lyrics using the [lyrics.ovh](https://lyrics.ovh) API
 ## Steps to execute this APP:
 - Download the entire code 
 - Open up the index.html.
-- [View Live Site]()
+- [View Live Site](https://anthonys1760.github.io/Lyrics-Search-App/)
 
 ## Technologies used: 
 - HTML
-- CSS [style/Presentation]
-- Javascript [Logic/Working of calculator]
+- CSS
+- Javascript
